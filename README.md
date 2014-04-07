@@ -1,6 +1,6 @@
-#©
+#© DRAFT
 ---
-[Note: This started off as an essay about selecting a license for Field Guide, but turned into a draft of what an intellectual property licensing policy - that institutionalized our model of collaborative research - would look like. I’d like to the consent of the other F_RMlab members to implement this with our current membership. Then we invite other school groups (Bridge, Datalab) to adopt it, to ensure the work created at the school is free to use by anyone.]
+_[Note: This started off as an essay about selecting a license for Field Guide, but turned into a draft of what an intellectual property licensing policy - that institutionalized our model of collaborative research - would look like. I’d like to the consent of the other FRMlab members to implement this with our current membership. Then we invite other school groups (Bridge, Datalab) to adopt it, to ensure the work created at the school is free to use by anyone.]_
 
 To read the papers cited in this essay, one has to pay publishing gatekeepers like Reed Elsevier or LexiNexis. Students of the University of Waterloo can access this content, it is built into our tuition, but a child in the Global South has little to no chance of accessing this content. This should be an uncomfortable thought: information is allocated according to privilege.
  
