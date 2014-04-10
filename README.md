@@ -1,11 +1,9 @@
-###F_RMlabxxxx
+###F_RMlab
 ###DRAFT Intellectual Property Licensing Policy
 ===
 #####1 PREAMBLE
 
 To read the papers cited in this essay, one must pay publishing gatekeepers like Reed Elsevier or LexisNexis. Students of the University of Waterloo can access this content, it is built into our tuition, but a child in the Global South has little to no chance of accessing this content. This should be a deeply uncomfortable thought: information is granted according to privilege.
-
-Design is increasingly digital, and increasingly hosted, or produced online. The school has, and will continue to move in this direction. It is thus important to have an alternative copyright scheme for design content that reflects the civic values of the school, in opposition to the existing copyright scheme of the University. 
 
 This essay serves as a provocation, an attempt to sketch out FRMlab's intrinsic political agenda in relation to creating, sharing and appropriating creative content. We believe that it is F_RMlab's responsibility - as a student society dedicated to digital design to:
 
@@ -13,7 +11,7 @@ This essay serves as a provocation, an attempt to sketch out FRMlab's intrinsic 
 2.	Critique and hold accountable aspects of the university's Intellectual Property policies that entrench global inequality
 3.	Create and embed legal and technical infrastructures to promote universal access to information.
 
-F_RMlab has positioned itself within an emerging digital public culture defined by: zero transaction and reproduction costs, reduced barriers to expert knowledge and methods, and social media platforms that change the way we engage our community[1]. Our workshops, research and tool developments are valuable because they are freely accessed and shared by our members and the global design community. Yet while our technical infrastructure reflects this participatory, open model, the legal structure of the group does not guarantee others can safely use and share our information. How can we ensure that we are not contributing to a gated global community? 
+Design is increasingly digital and increasingly hosted, or produced online[1]. The school has, and will continue to move in this direction. FRMlab's workshops, research and tool developments are valuable because they are freely accessed and shared by our members and the global design community. Yet while our technical infrastructure reflects this participatory, open model, the legal structure of the group does not guarantee others can safely use and share our information. It is thus important to have an alternative copyright scheme for design content that reflects the civic values of the school. How can we ensure that we are not contributing to a gated global community? 
 
 The Secretariat and Office of General Counsel lists the policies, procedures and guidelines that define the Intellectual Property (IP) rights provided to members of the University of Waterloo. In general, Policy 73 guarantees (except in certain well-defined situations) ownership of IP rights with the content creator[2] and thus the university dose not take, a priori, any share of revenue, ownership, copyright or other obligations for IP rights. This system places the onus on students to affirm common usage licensing. Consequently, our copyright scheme privatizes our knowledge by default:  the work that is being created by the school of architecture everyday - mapping data, survey information,  geometric models of the city - by default may not be distributed, modified, reproduced in whole or in part without prior permission of the content creator.
 
