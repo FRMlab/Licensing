@@ -5,7 +5,7 @@
 
 To read the papers cited in this essay, one must pay publishing gatekeepers like Reed Elsevier or LexisNexis. Students of the University of Waterloo can access this content, it is built into our tuition, but a child in the Global South has little to no chance of accessing this content. This should be a deeply uncomfortable thought: information is granted according to privilege.
 
-This essay serves as a provocation, an attempt to sketch out FRMlab's intrinsic political agenda in relation to creating, sharing and appropriating creative content. We believe that it is F_RMlab's responsibility - as a student society dedicated to digital design to:
+This essay serves as a provocation, an attempt to sketch out FRMlab's intrinsic political agenda in relation to creating, sharing and appropriating creative content. We believe that it is F_RMlab's responsibility - as a student society dedicated to digital design - to evanglecize and uphold the following three principles: 
 
 1.	Steward alternative institutional models for politically-conscious, open, collaborative design research
 2.	Critique and hold accountable aspects of the university's Intellectual Property policies that entrench global inequality
