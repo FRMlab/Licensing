@@ -19,8 +19,9 @@ The Secretariat and Office of General Counsel lists the policies, procedures and
 
 We thus choose to actively define our own IP model that safeguards and formalizes the group's participatory spirit. Our IP system balances the rights and legal protection of our content creators, while encouraging our work to be shared in the public sphere. We invite other student societies in the UWSA to adopt this agreement for work produced. We would also like to have the faculty adopt our licensing ethos for the work they are creating and publishing, or alternatively provide them with open-source journals to publish their work. 
 
-F_RMlab<br>
-April 2014, University of Waterloo School of Architecture
+F_RMlab
+<br>
+<p>April 2014, University of Waterloo School of Architecture</p>
 ===
 [1] Clay Shirky, "The political power of social media: technology, the public sphere, and political change." Foreign Affairs, Vol.90(1) (2011): 28. 
 <br>
