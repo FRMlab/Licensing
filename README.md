@@ -24,7 +24,11 @@ April 2014, University of Waterloo School of Architecture
 
 ===
 [1] Clay Shirky, "The political power of social media: technology, the public sphere, and political change." Foreign Affairs, Vol.90(1) (2011): 28. 
+<br>
 [2] “Policy 73 - Intellectual Property Rights,” last modified June 29, 2000, https://uwaterloo.ca/secretariat-general-counsel/policies-procedures-guidelines/policy-73-intellectual-property-rights.
+<br>
 [3] "Creative Commons' Foundation Engagement Project," last modified March 25th, 2014, http://creativecommons.org/weblog/entry/40760.
+<br>
 [4] "Open Source Imitative", accessed April 5, 2014, http://opensource.org/licenses.
+<br>
 [5] "F_RMlab: Digital design group at Waterloo Architecture," last modified April 7, 2014, https://github.com/FRMlab.
