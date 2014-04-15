@@ -1,9 +1,9 @@
 _[Note the following is a draft and subject to approval by other FRMlab members]._
 <br>
-###F_RMlab
-###DRAFT Intellectual Property Licensing Policy
+####F_RMlab
+####DRAFT Intellectual Property Licensing Policy
 ===
-#####1 PREAMBLE
+####1 PREAMBLE
 
 To read the papers cited in this essay, one must pay publishing gatekeepers like Reed Elsevier or LexisNexis[1]. Students of the University of Waterloo can access this content, it is built into our tuition, but a child in the Global South has little to no chance of access. This should be a deeply uncomfortable thought: information is granted according to privilege. Our default models of copyright and access (including the University of Waterloo's Intellectual Property policy) contribute to a gated global community by locking content access and usage to a privileged few. 
 
@@ -42,9 +42,9 @@ F_RMlab
 
 ===
 
-#####2 <a href="https://github.com/FRMlab/Licensing/blob/master/IP_Licensing_Policy.md#f_rmlab" Intellectual Property Licensing Policy> 
+####2 <a href="https://github.com/FRMlab/Licensing/blob/master/IP_Licensing_Policy.md#f_rmlab"> INTELLECTUAL PROPERTY LICENSING POLICY</a> 
 
 
-###ROUGH
+#####ROUGH/TRASH
 An ongoing, collaborative experiment like FRMlab cannot survive under this existing copyright system. We thus choose to actively define our own IP model that safeguards and formalizes the group's participatory spirit. Our IP system balances the rights and legal protection of our content creators, while encouraging our work to be shared in the public sphere. FRMlab membership will entail by default, an agreement to share all work produced within the group through common usage licenses. Works of art, reports or videos will be licensed under the most recent version of the Creative Commons Attribution license (CC BY) [4] and software will be licensed by the LGPL license from the Free Software Foundation (cite). Members have the option of selecting an alternative licensing scheme that guarantees further rights, FRMlab will provide a list of approved open source licenses from the Open Source Initiative[5]. Members can also choose to opt out of open source licensing and reserve all rights to their works. The agreement document is modified from the 'model intellectual property licensing policy for foundations' (cite) from the Creative Commons and in keeping with their practise, the agreement is dedicated to the public domain. F_RMlab will host on its Github account [5], where anyone can freely copy and modify it without attribution. 
 
