@@ -13,7 +13,7 @@ The Secretariat and Office of General Counsel lists the policies, procedures and
 
 So it is important for F_RMlab to have an alternative copyright scheme that reflects the civic values of our ongoing collaboration. But we also think, perhaps, this is bigger than just us. Design practice is continuing to shift towards digital content creation and online information access. For this reason we have new opportunities to share the work we produce and empower others to build on our efforts. Specifically, we can choose to share our work and the terms by which it is appropriated. We believe that it is F_RMlab's responsibility - as a student society dedicated to digital design - to do exactly this and steward an institutional model for open, collaborative design research. 
 
-We have determined three principles that form the core of our political agenda as the following:
+We fully acknowledge the uncertainty and ambiguity inherant in claiming and institutionalizing ethical duty. We do this earnestly, in search of better ways of contributing to the world.In this vein, we have determined three core principles of F_RMlab's mission statement:
 
 1. Critique and hold accountable aspects of the university's Intellectual Property policies that entrench global inequality.
 2. Vet and promote licensing agreements, specific to design content, that reduces the technical overhead for students and faculty to open-source their work.   
