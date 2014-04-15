@@ -7,7 +7,7 @@ _[Note the following is a draft and subject to approval by other FRMlab members]
 
 To read the papers cited in this essay, one must pay publishing gatekeepers like Reed Elsevier or LexisNexis. Students of the University of Waterloo can access this content, it is built into our tuition, but a child in the Global South has little to no chance of accessing this content. This should be a deeply uncomfortable thought: information is granted according to privilege. Our default models of copyright and access (including the University of Waterloo's Intellectual Property policy) contribute to a gated global community[1] by locking content access and usage to a privileged few. 
 
-This essay serves as a provocation, an attempt to sketch out F_RMlab's political agenda in relation to creating, sharing and appropriating creative content. We propose that F_RMlab has an inherent, self-interested political position. Our workshops, research and design efforts are valuable because they are freely accessed and shared by our members and the global design community. Yet while the work we have done and technical infrastructure we use reflects this participatory spirit - the legal structure of the group does not guarantee others can safely work with our information. 
+This essay serves as a provocation, an attempt to sketch out F_RMlab's political agenda in relation to creating, sharing and appropriating creative content. F_RMlab's workshops, research and design efforts are valuable in part because they are freely accessed and shared by our members and the global design community. Yet while the work we have done and technical infrastructure we use reflects this participatory spirit - the legal structure of the group does not guarantee others can safely work with our information. 
 
 The Secretariat and Office of General Counsel lists the policies, procedures and guidelines that define the Intellectual Property (IP) rights provided to members of the University of Waterloo. In general, Policy 73 guarantees (except in certain well-defined situations) ownership of IP rights with the content creator[2] and thus the university does not take, a priori, any share of revenue, ownership, copyright or other obligations for them. This system places the onus on students to affirm common usage licensing. Consequently, our copyright scheme privatizes our knowledge by default:  the work that is being created by us - mapping data, code, workshop lessons - by default may not be distributed, modified, reproduced in whole or in part without prior permission of the content creator.
 
@@ -17,11 +17,12 @@ We have determined three principles that form the core of our political agenda a
 
 1. Critique and hold accountable aspects of the university's Intellectual Property policies that entrench global inequality.
 2. Vet and promote licensing agreements, specific to design content, that reduces the technical overhead for students and faculty to open-source their work.   
-3.  Create and embed technical infrastructures to promote universal access to information.
+3.  Create and embed technical infrastructures to promote universal access to information, regardless of legality.
 
 We thus choose to first, actively define our own IP model that safeguards and formalizes the group's participatory spirit. Our IP system balances the rights and legal protection of our content creators, while encouraging our work to be shared in the public sphere. Secondly we are developing and promoting technical infrastructures that allow anyone to access our work.
 
-We realize we are not the only ones interested in opening up data and access within our profession. Yet if we continue to act alone, our efforts remain fragmented. There is a lot of knowledge and data produced within our school that could benefit the public. We'd like to invite other student societies, grad and faculty members to open up the work they are creating and publishing, to debate the propositions in this essay, and adopt our technical and legal infrastructures. 
+We realize we are not the only ones interested in opening up data and access within our profession. Yet if we continue to act alone, our efforts remain fragmented. There is a lot of knowledge and data produced within our school that could benefit the public. All that time we spend locked in our studios and offices - tracing maps in CAD, making 3D models of cities, contributing to academic journals - is a wealth of knowledge others can benefit from. We'd like to invite other student societies, grad and faculty members to open up the work they are creating and publishing, to debate the propositions in this essay, and adopt our technical and legal infrastructures. 
+    
 
 F_RMlab
 <br>
