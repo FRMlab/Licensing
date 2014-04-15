@@ -19,11 +19,11 @@ In this vein, we have determined three core principles of F_RMlab's mission:
 2. Vet and promote licensing agreements, specific to design content, that reduces the technical overhead for students and faculty to open-source their work.   
 3. Create and embed technical infrastructures to promote universal access to information, regardless of legality.
 
-We thus choose to first, actively define our own IP model that safeguards and formalizes the group's participatory spirit. Our IP system balances the rights and legal protection of our content creators, while encouraging our work to be shared in the public sphere. Secondly we are developing and promoting technical infrastructures that allow anyone to access our work. We'd like to invite other students, student societies and faculty members to open up the work they are creating and publishing, to debate the propositions in this essay, and adopt our technical and legal infrastructures.
+We thus choose to first, actively define our own IP model that safeguards and formalizes the group's participatory spirit. Our IP system balances the rights and legal protection of our content creators, while encouraging our work to be shared in the public sphere. Secondly we are developing and promoting technical infrastructures that allow anyone to access our work. We'd like to invite other students, student societies and faculty members to open up the work they are creating and publishing and adopt our technical and legal infrastructures.
 
 We realize we are not the only ones interested in opening up data and access within our school and the profession. Yet if we continue to act alone, our efforts remain fragmented. There is a lot of knowledge and data produced within our school. We spend hours, locked in our studios and offices - tracing maps in CAD, making 3D models of cities, contributing to academic journals - constructing a wealth of knowledge that can help others and then hoarding it: letting it slowly die in our hard drives, our portfolios. It doesn't benefit us and doesn't benefit our broader community. 
 
-We fully acknowledge the uncertainty and ambiguity inherent in claiming and institutionalizing ethical duty. We do this earnestly, in search of better ways of contributing to the world. 
+This is an earnest search for solutions. We fully acknowledge the uncertainty and ambiguity inherent in making ethical claims and invite others to debate this essay. 
     
 
 F_RMlab
