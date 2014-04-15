@@ -21,7 +21,7 @@ We have determined three principles that form the core of our political agenda a
 
 We thus choose to first, actively define our own IP model that safeguards and formalizes the group's participatory spirit. Our IP system balances the rights and legal protection of our content creators, while encouraging our work to be shared in the public sphere. Secondly we are developing and promoting technical infrastructures that allow anyone to access our work.
 
-We realize we are not the only ones interested in opening up data and access within our profession. Yet if we continue to act alone, our efforts remain fragmented. There is a lot of knowledge and data produced within our school that could benefit the public. We spend hours, locked in our studios and offices - tracing maps in CAD, making 3D models of cities, contributing to academic journals - constructing a wealth of knowledge others can benefit from and then hoarding it. It doesn't benefit us and doesn't benefit our communities. 
+We realize we are not the only ones interested in opening up data and access within our profession. Yet if we continue to act alone, our efforts remain fragmented. There is a lot of knowledge and data produced within our school. We spend hours, locked in our studios and offices - tracing maps in CAD, making 3D models of cities, contributing to academic journals - constructing a wealth of knowledge others can benefit from and then hoarding it. It doesn't benefit us and doesn't benefit our communities. 
 
 We'd like to invite other students, student societies and faculty members to open up the work they are creating and publishing, to debate the propositions in this essay, and adopt our technical and legal infrastructures. 
     
