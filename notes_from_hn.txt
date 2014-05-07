@@ -1,0 +1,17 @@
+http://gabrielecirulli.com/articles/2048-success-and-me
+
+The thing I found most interesting about the 2048 was the sudden assortment of variations that immediately followed. It was a perfect example of how the thing we call "culture" works: people recursively sharing their interest in something, often without even trying ("hey, that looks cool. What are you playing?").
+It is also a powerful argument in the idea (described very nicely by Lawrence Lessig[1]) that culture and creativity are hindered by copyright. While git (via github.com) made it technologically trivial to clone the source, it's the lack of the "don't touch it - somebody will sue me" barrier that allowed a huge number of people to try their hand at a variation.
+To re-use a quote used by Mr. Lessig[2], said by composer John Philip Sousa as the technology of the phonograph (and the ability to restrict the use of music through copyright) quickly became widespread:
+"These talking machines are going to ruin artistic development of music in this country. When I was a boy, in front of every house in the summer evenings, you would find young people together singing the songs of the day, or the old songs. Today, you hear these infernal machines going night and day. We will not have a vocal chord left..."
+I believe talk about "profit" or "lost opportunities" misses the forest for the trees. The potential of future personal profit on a small game like this can be very hit-or-miss, but the contributions to our shared culture have already been huge. The fact that the game caused an incredible amount of attention - with multiple people sending messages about taking the idea further - is conclusive evidence of the cultural impact it had.
+The reaction by the authors of "threes"[3] (linked from this article) is an interesting example from the other side. It is clearly annoyed at the loss of profits that 2048 may have caused. Their game is also proprietary, restricting the possibility of making a legal derivative work. this eliminated one of the big sources of initial "word of mouth"/"viral' attention their game received.
+I'm not trying to argue for the elimination of copyright[4] or other sweeping changes. For some works - especially games and other works of art - the monopoly benefits of copyright are probably worth the loss of some popularity. I simply suggest that there are other benefits besides "profit". As this article mentions, even stuff like "lack of stress" can be a huge advantage; knowing you've been able to impact so many people is something many artists dream about and hope for their entire lives[5].
+TL;DR
+If you're thinking of trying to squeeze some profit from a small work like this, you may want to consider letting it spread in our shared culture and taking the fame and reputation as the author of a Cool Game/App.
+--
+[1] http://www.ted.com/talks/larry_lessig_says_the_law_is_strang...
+[2] ibid.
+[3] http://asherv.com/threes/threemails/
+[4] While I do believe we should eliminate most "IP" laws, that argument is for another day.
+[5] said best by the comic PFSC: https://31.media.tumblr.com/2cbf666fc1881d6c0f158a6bece2bb95...
