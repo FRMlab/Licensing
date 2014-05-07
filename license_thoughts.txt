@@ -1,4 +1,4 @@
-http://gabrielecirulli.com/articles/2048-success-and-me
+
 
 The thing I found most interesting about the 2048 was the sudden assortment of variations that immediately followed. It was a perfect example of how the thing we call "culture" works: people recursively sharing their interest in something, often without even trying ("hey, that looks cool. What are you playing?").
 It is also a powerful argument in the idea (described very nicely by Lawrence Lessig[1]) that culture and creativity are hindered by copyright. While git (via github.com) made it technologically trivial to clone the source, it's the lack of the "don't touch it - somebody will sue me" barrier that allowed a huge number of people to try their hand at a variation.
@@ -15,3 +15,8 @@ If you're thinking of trying to squeeze some profit from a small work like this,
 [3] http://asherv.com/threes/threemails/
 [4] While I do believe we should eliminate most "IP" laws, that argument is for another day.
 [5] said best by the comic PFSC: https://31.media.tumblr.com/2cbf666fc1881d6c0f158a6bece2bb95...
+
+RESEARCH
+
+http://gabrielecirulli.com/articles/2048-success-and-me
+https://www.theleagueofmoveabletype.com/manifesto
